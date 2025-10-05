@@ -1,0 +1,21 @@
+# Laravel & PHP 
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+# Docker関連
+docker/mysql/data/
+docker/mysql/logs/
+docker/mysql/conf.d/
+docker/mysql/docker-entrypoint-initdb.d/
+docker-compose.override.yml
