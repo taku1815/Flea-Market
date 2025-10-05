@@ -27,7 +27,8 @@ php artisan storage:link
 ![alt](table_3.png)
 
 ## ER図
-![alt](er.png)
+![alt]("![Uploading スクリーンショット 2025-10-05 223609.png…]()
+")
 
 ## URL
 - 開発環境：http://localhost/
