@@ -22,13 +22,8 @@ php artisan storage:link
 - Laravel 8.83.29
 - MySQL 8.0.41
 
-## テーブル設計
-![alt](table_1.png)
-![alt](table_3.png)
-
-## ER図
-![alt]("![Uploading スクリーンショット 2025-10-05 223609.png…]()
-")
+## テーブル設計およびER図
+![alt]("https://docs.google.com/spreadsheets/d/1tAyxHzM5nZ4MTsn-INRxIluEHCpDm3J_8bOCQGmGL80/edit?pli=1&gid=1188247583#gid=1188247583")
 
 ## URL
 - 開発環境：http://localhost/
