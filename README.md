@@ -23,7 +23,7 @@ php artisan storage:link
 - MySQL 8.0.41
 
 ## テーブル設計およびER図
-![alt]("https://docs.google.com/spreadsheets/d/1tAyxHzM5nZ4MTsn-INRxIluEHCpDm3J_8bOCQGmGL80/edit?pli=1&gid=1188247583#gid=1188247583")
+https://docs.google.com/spreadsheets/d/1tAyxHzM5nZ4MTsn-INRxIluEHCpDm3J_8bOCQGmGL80/edit?pli=1&gid=1188247583#gid=1188247583
 
 ## URL
 - 開発環境：http://localhost/
